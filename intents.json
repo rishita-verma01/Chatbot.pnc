@@ -1,0 +1,155 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day"
+        ],
+        "responses": [
+          "Hey :-)",
+          "Hello, thanks for visiting",
+          "Hi there, what can I do for you?",
+          "Hi there, how can I help?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "See you later, thanks for visiting",
+          "Have a nice day",
+          "Bye! Come back again soon."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      },
+      {
+        "tag": "Mobile Comparison",
+        "patterns": [
+          "What are the popular mobile comparisons?",
+          "Top mobile comparisons?",
+          "Best mobile comparisons here?"
+        ],
+        "responses": [
+          "Sure,here are some of the mobile comparisons:\n1. Iphone 14 pro max vs Samsung S23 Ultra \n2. Iphone 13 vs Nothing phone 1\n3. Iqoo neo 7 vs Iqoo neo 6 \n4. Vivo V27 vs Vivo V27 pro \n5. Oneplus Nord 2 vs Oneplus nord 2T"
+         
+        ]
+      },
+      {
+        "tag": "Mobile Brands",
+        "patterns": [
+          "Show Mobiles by brand.",
+          "Show some popular mobile brands.",
+          "How many mobile brands are here?"
+           ],
+        "responses": [
+          "Some of the popular brands are:\n1. Apple: Iphone 14 pro max,Iphone 13\n2. Oneplus: Oneplus nord 2, Oneplus nord 2t\n3.Samsung: Samsung S23 Ultra\n4.Iqoo: Iqoo neo 7, Iqoo neo 6\n5.Vivo: Vivo V27, vivo V27 pro\n6. Nothing: Nothing Phone 1"
+         
+        ]
+      },
+      {
+        "tag": "Laptop Comparison",
+        "patterns": [
+          "What are the popular laptops comparisons?",
+          "Top laptops comparisons?",
+          "Best laptops comparisons here?"
+           ],
+        "responses": [
+          "Some of the popular comparisons are:\n1. Dell G15-5525 vs Asus Tuf A17\n2. Hp Victus15-5525 vs HP Victus 16-E0301Ax\n3. Asus Tuf A15 vs Acer Aspire 7\n4. Dell G15-5525 vs HP Pavilion 15\n5. Lenovo Ideapad Gaming 3 vs Lenovo Ideapad 15ALC6  "
+         
+        ]
+      },
+      {
+        "tag": "Laptop Brands",
+        "patterns": [
+          "Show Laptops by brand.",
+          "Show some popular Laptop brands.",
+          "How many Laptop brands are here?"
+           ],
+        "responses": [
+          "Some of the popular brands are:\n1. Dell:Dell G15-5525\n2.Asus: Asus Tuf A15,Asus Tuf A17\n3. HP: HP Victus15-5525,HP Victus 16-E0301Ax,HP Pavilion 15\n4. Acer:Acer Aspire 7\n5. Lenovo: Lenovo Ideapad Gaming 3,Lenovo Ideapad 15ALC6  "
+         
+        ]
+      },
+      {
+        "tag": "Earphones Comparison",
+        "patterns": [
+          "What are the popular earphones comparisons?",
+          "Top earphones comparisons?",
+          "Best earphones comparisons here?"
+           ],
+        "responses": [
+          "Some of the popular comparisons are:\n1. Oneplus nord buds vs Oppo Enco Air pro\n2. Oppo Enco buds 2 vs Oppo Enco Air 2\n3.Realme buds air 3 vs JBL tune 130NC\n4.Realme Techlife buds T100 vs Noise Buds VS202\n5.Oneplus buds pro vs Nothing ear 1 "
+         
+        ]
+      },
+      {
+        "tag": "Earphone Brands",
+        "patterns": [
+          "Show Earphones by brand.",
+          "Show some popular Earphone brands.",
+          "How many Earphone brands are here?"
+           ],
+        "responses": [
+          "Some of the popular brands are:\n1. Oppo: Oppo Enco Air pro,Oppo Enco buds 2,Oppo Enco Air 2\n2. oneplus: Oneplus nod buds,Oneplus buds pro\n3.Realme:Realme buds air 3,Realme Techlife buds T100\n4.Noise Buds VS202\n5. Nothing: Nothing Ear 1 "
+         
+        ]
+      },
+      {
+        "tag": "Tablet Comparison",
+        "patterns": [
+          "What are the popular Tablets comparisons?",
+          "Top Tablets comparisons?",
+          "Best Tablets comparisons here?"
+           ],
+        "responses": [
+          "Some of the popular comparisons are:\n1. Xiaomi mi Pad 5 vs Realme Pad X\n2.Samsung Galaxy Tab S6 lite vs Samsung Galaxy Tab A8\n3.Lenovo Tab P11vs Lenovo Tab M10\n4. Realme Pad mini vs Samsung Galaxy Tab A7 lite\n5.Samsung Galaxy Tab S7 plus vs Xiaomi mi pad 5 "
+         
+        ]
+      },
+      {
+        "tag": "Tablet Brands",
+        "patterns": [
+          "Show Tablets by brand.",
+          "Show some popular Tablet brands.",
+          "How many Tablet brands are here?"
+           ],
+        "responses": [
+          "Some of the popular brands are:\n1. Xiaomi:  Xiaomi mi Pad 5\n2.Realme: Realme Pad,Realme Pad mini\n3. Samsung Galaxy Tab S6 lite,Samsung Galaxy Tab A8,Samsung Galaxy Tab A7,Samsung Galaxy Tab S7 plus\n4.Lenovo: Lenovo Tab P11,Lenovo Tab M10"
+         
+        ]
+      },
+      {
+        "tag": "Smartwatch Comparison",
+        "patterns": [
+          "What are the popular Smartwatches comparisons?",
+          "Top Smartwatches comparisons?",
+          "Best Smartwatches comparisons here?"
+           ],
+        "responses": [
+          "Some of the popular comparisons are:\n1.Amazfit GTS 4 vs Amazfit GTS 4 mini\n2. Realme Watch 3 pro vs Realme Watch 3\n3. Noise colorfit Pulse go Buzz vs Noise Colorfit Pulse Buzz\n4. Boat Storm pro call vs Boat Xtend pro\n5. Fire-Boltt Hulk vs Fire-Boltt Visionary "
+         
+        ]
+      },
+      {
+        "tag": "Smartwatch Brands",
+        "patterns": [
+          "Show Smartwatches by brand.",
+          "Show some popular Smartwatches brands.",
+          "How many Smartwatches brands are here?"
+           ],
+        "responses": [
+          "Some of the popular brands are:\n1. Amazefit: Amazfit GTS 4,Amazfit GTS 4 mini\n2.Realme: Realme Watch 3 pro,Realme Watch 3\n3.Noise: Noise colorfit Pulse go Buzz,Noise Colorfit Pulse Buzz\n4.Boat: Boat Storm pro call,Boat Xtend pro\n5.Fire_Boltt: Fire-Boltt Hulk,Fire-Boltt Visionary  "
+         
+        ]
+      }
+      ]
+  }
